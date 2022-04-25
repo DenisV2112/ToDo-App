@@ -1,6 +1,6 @@
 import React, { Profiler } from "react";
 import { MenuItems } from "./MenuItems";
-import { ProfileItem, ProfileIten } from "./Profile"
+import { ProfileItem } from "./Profile"
 
 
 

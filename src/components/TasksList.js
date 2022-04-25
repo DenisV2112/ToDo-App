@@ -4,10 +4,12 @@ import Task from "./Task";
 import '../components/Style-sheet/TasksList.css';
 
 
-function TasksList( ) {
 
+function TasksList( ) {  
+    
     const [tasks, setTasks] = useState([]);
 
+  
     const addTask = task => {
        
        if(task.texto.trim()) { 
@@ -30,12 +32,16 @@ function TasksList( ) {
                 key={task.id}
                 id={task.id}
                 texto ={task.texto} 
+                time={task.time}
                 eliminarTarea ={eliminarTarea}
                 />
+           
                
             )
            }
           </div>
+
+         
         </>
     );
 }

@@ -8,16 +8,18 @@ function TaskForm(props){
 
     const manejarCambio = e => {
         setInput(e.target.value);
-        console.log(e.target.value);
+       
 
     }
 
     const manejarEnvio = e =>{
         e.preventDefault();
-        console.log("Sending form");
          const newTask ={
              id: uuidv4(),
-             texto: input
+             texto: input,
+             time:  new Date().toDateString().replace(' ',',')  
+            
+                    
          }
          props.onSubmit(newTask);
     }

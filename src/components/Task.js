@@ -1,7 +1,9 @@
 import React from 'react';
 import '../components/Style-sheet/Task.css'
 import { MdDelete } from 'react-icons/md';
-function Task({id, texto, eliminarTarea }){
+function Task({id, texto, eliminarTarea,time }){
+
+
     return(
         <div className='task-container'>
             
@@ -17,7 +19,7 @@ function Task({id, texto, eliminarTarea }){
                           <progress className='' value = "0" max = "100"/> 0%
                          </div>
                          <div className='task-time'>
-                             {new Date().toLocaleString()}
+                             {time}
                           </div>
                     </div>
                
