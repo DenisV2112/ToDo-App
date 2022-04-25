@@ -1,0 +1,71 @@
+
+body {
+ 
+   background-color: whitesmoke;
+    
+  }
+  .BodyItems{
+    text-align:center;
+    padding: 25px; 
+    margin: 10px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif 
+  }
+  
+  .My-Tasks{
+    text-align: left;
+    
+    
+  }
+  
+  .logo {
+    width: 20%;
+    float: left;
+  }
+  
+  li {
+    display: inline;
+    list-style: none;
+    padding: 10px;
+    line-height: 10px;
+    
+    
+  }
+  .nav-profile{
+    margin-top: 40px;
+    text-align: left;
+    width:157px;
+    display:inline-block;
+    
+  }
+  li:hover {
+    background-color: rgb(247, 247, 247);
+  }
+  li:hover .nav-links {
+    color: black;
+  }
+  li:hover .nav-links-mobile {
+    color: black;
+  }
+  .List-Tasks-Key{
+    min-height: 50px;
+    background-color: whitesmoke;
+    padding: 25px 10px  0px; 
+    margin: 10px;
+    justify-content: center;
+    border-radius: 26px;  
+  }
+  .Botton-Add{
+    color:white;
+    float: right;
+    font-size:32px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(75, 75, 255);
+    border-radius: 7px;  
+    border-color: blue;
+  }
+  .App{
+    background-color: white;
+    padding: 5%;
+  }
