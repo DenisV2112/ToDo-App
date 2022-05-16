@@ -1,10 +1,12 @@
 # About
-This Proyect is a ToDo Aplication using React.JS for learning
+This project is the first application I make in React.JS, a ToDo app with dimensions of Iphone SE.
 
-Which includes:
-° Navbar.
-° Progress Bar.
-° Button to create the task.
-° And butto to delete taks.
+### Which includes:
+1. Navbar.
+2. Progress Bar.
+3. Button to create the task.
+4. And butto to delete taks.
 
--See the page with dimensions of Iphone SE-
+### ¿How to run? 
+#### I made a deployment to facilitate its start
+    https://capable-melba-7248ba.netlify.app
