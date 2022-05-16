@@ -13,4 +13,4 @@ This project is the first application I make in React.JS, a ToDo app with dimens
         
 ##### And i made a deployment to facilitate its start
 
-    https://capable-melba-7248ba.netlify.app
+    https://wondrous-zabaione-65cd97.netlify.app
