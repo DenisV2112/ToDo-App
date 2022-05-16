@@ -5,7 +5,7 @@ This project is the first application I make in React.JS, a ToDo app with dimens
 1. Navbar.
 2. Progress Bar.
 3. Button to create the task.
-4. And butto to delete taks.
+4. And button to delete taks.
 
 ### ¿How to run? 
 
