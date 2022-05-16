@@ -8,6 +8,9 @@ This project is the first application I make in React.JS, a ToDo app with dimens
 4. And butto to delete taks.
 
 ### ¿How to run? 
+
         npm start
+        
 ##### And i made a deployment to facilitate its start
+
     https://capable-melba-7248ba.netlify.app
