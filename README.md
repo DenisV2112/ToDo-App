@@ -1,7 +1,7 @@
 # About
 This project is the first application I make in React.JS, a ToDo app with dimensions of Iphone SE.
 
-### Which includes:
+### Includes:
 1. Navbar.
 2. Progress Bar.
 3. Button to create the task.
