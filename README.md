@@ -6,7 +6,7 @@ This project is the first application I make in React.JS, a ToDo app with dimens
 2. Progress Bar.
 3. Button to create the task.
 4. And button to delete taks.
-5.Hooks
+5. Hooks.
 
 
 ### ¿How to run? 
